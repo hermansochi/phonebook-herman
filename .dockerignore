@@ -8,6 +8,11 @@
 /.ready
 /.eslintcache
 
+/.pnp
+.pnp.js
+dist
+dist-ssr
+*.local
 
 # Logs
 logs
@@ -20,7 +25,6 @@ lerna-debug.log*
 
 node_modules
 .DS_Store
-dist-ssr
 coverage
 *.local
 

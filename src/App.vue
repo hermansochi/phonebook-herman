@@ -12,6 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <h1 class="text-green-500 text-2xl">Clone</h1>
 </template>
 
 <style scoped>
